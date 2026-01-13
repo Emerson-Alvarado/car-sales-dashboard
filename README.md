@@ -8,9 +8,9 @@ End-to-end sales analytics dashboard built in **Power BI**. Analyzes sales trend
 - Excel (data source)
   
 ## Key Features
-- Excel data ingestion, cleaning, and processing with Power Query
-- Star schema data model with Date tables
-- DAX measures and functions (SUM, SUMX, MAX, MAXX, RANK, CALCULATE)
-- Time intelligence metrics (YTD, MTD, PYTD)
-- KPIs, interactive charts, cards, maps, and custom visuals
+- Excel data ingestion, cleaning, and processing with **Power Query**
+- Star schema** data model** with Date tables
+- DAX measures and functions **(SUM, SUMX, MAX, MAXX, RANK, CALCULATE)**
+- Time intelligence metrics **(YTD, MTD, PYTD)**
+- **KPIs**, interactive charts, cards, maps, and custom visuals
 - Conditional formatting and report navigation
